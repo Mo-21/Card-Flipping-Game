@@ -14,7 +14,7 @@ class AudioSystem {
   }
 
   pauseMusic() {
-    this.startSound.pause;
+    this.startSound.pause();
     this.startSound.currentTime = 0;
   }
 
