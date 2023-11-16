@@ -30,3 +30,17 @@ The code is organized and structured to separate concerns, making it easy to und
    - If the symbols match, both cards stay flipped.
    - If the symbols do not match, both cards flip back over.
    - Continue until all pairs are matched.
+
+## Technologies Used
+
+- Vanilla JavaScript [](./javascript.svg) with Vite [Vite](./public/vite.svg)
+- HTML5
+- CSS3
+
+## Contributions
+
+Contributions to improve the game's features, performance, or code structure are welcome! Fork the repository, make your changes, and submit a pull request.
+
+## Acknowledgements
+
+This game was developed as a learning project to practice JavaScript OOP concepts and was inspired by various memory card games available online.
