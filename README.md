@@ -2,11 +2,14 @@
 
 This is a memory card game built with vanilla JavaScript, HTML and CSS, utilizing Object-Oriented Programming (OOP) principles and classes. The game involves flipping cards to find matching pairs until all cards are matched.
 
+![cards](./cards.png)
+
 ## Features
 
 - Card Flipping: Click on cards to flip them.
 - Matching Pairs: Find matching pairs by remembering card positions.
 - Game Logic: Built with OOP principles and classes for maintainability and scalability.
+- Responsive Design: can be played on any screen size.
 
 ## Code Structure
 
@@ -33,7 +36,7 @@ The code is organized and structured to separate concerns, making it easy to und
 
 ## Technologies Used
 
-- Vanilla JavaScript [](./javascript.svg) with Vite [Vite](./public/vite.svg)
+- Vanilla JavaScript ![js](./javascript.svg) with Vite ![Vite](./public/vite.svg)
 - HTML5
 - CSS3
 
