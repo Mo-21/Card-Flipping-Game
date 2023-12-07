@@ -2,6 +2,8 @@
 
 This is a memory card game built with vanilla JavaScript, HTML and CSS, utilizing Object-Oriented Programming (OOP) principles and classes. The game involves flipping cards to find matching pairs until all cards are matched.
 
+[Live Preview](https://clinquant-pudding-a19bc3.netlify.app/)
+
 ![cards](./cards.png)
 
 ## Features
